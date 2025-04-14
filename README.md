@@ -1,5 +1,5 @@
 # MGCNA
- Submitted to journal IEEE Journal of Biomedical and Health Informatics 
+ Submitted to journal PLOS Computational Biology
 ## 1. Overview
 The code for paper "Multi-view fusion based on graph convolutional network with attention mechanism for predicting miRNA related to drugss". The repository is organized as follows:
 
