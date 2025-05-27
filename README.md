@@ -20,10 +20,10 @@ The code for paper "Multi-view fusion based on graph convolutional network with 
   * main.py` runs MGCNA;
   
 ## 2. Dependencies
-* numpy == 1.21.1
-* torch == 2.0.0+cu118
-* sklearn == 0.24.1
-* torch-geometric == 2.3.0
+* numpy == 1.24.4
+* torch == 2.1.2+cu118
+* sklearn == 1.3.0
+* torch-geometric == 2.4.0
 
 ## 3. Quick Start
 Here we provide a example:
