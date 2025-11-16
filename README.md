@@ -1,5 +1,7 @@
 # MGCNA
- Submitted to journal PLOS Computational Biology
+## Paper [**[Paper link]**](https://doi.org/10.1371/journal.pcbi.1013703 "Click") 
+## Cite
+Sheng N, Liu Y, Gao L, Wang L, Huang L, et al. (2025) Multi-view fusion based on graph convolutional network with attention mechanism for predicting miRNA related to drugs. PLOS Computational Biology 21(11): e1013703. https://doi.org/10.1371/journal.pcbi.1013703
 ## 1. Overview
 The code for paper "Multi-view fusion based on graph convolutional network with attention mechanism for predicting miRNA related to drugss". The repository is organized as follows:
 
